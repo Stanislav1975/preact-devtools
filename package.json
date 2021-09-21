@@ -81,7 +81,7 @@
 		"wmr": "^0.0.11"
 	},
 	"dependencies": {
-		"errorstacks": "^2.0.0",
+		"errorstacks": "^2.3.2",
 		"escape-string-regexp": "^4.0.0"
 	},
 	"peerDependency": {
