@@ -82,7 +82,7 @@
 	},
 	"dependencies": {
 		"errorstacks": "^2.0.0",
-		"escape-string-regexp": "^4.0.0"
+		"escape-string-regexp": "^5.0.0"
 	},
 	"peerDependency": {
 		"preact": "10.x"
